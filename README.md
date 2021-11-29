@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaneaw and I hope you're having a wonderful day!
-- 👀 I’m interested in making a difference and giving back to those who are less fortunate.
+- 👀 I’m interested in all things related to software development!
 - 🌱 I’m currently learning about Blockchain Technology and I'm always learning about new algorithms!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... wilsonzanea@gmail.com
