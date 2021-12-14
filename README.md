@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @zaneaw and I hope you're having a wonderful day!
+- 👋 Hey there! I'm Zane and I hope you're having a great day!
 - 👀 I’m interested in all things software development!
 - 🌱 I’m currently learning about JavaScript!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... wilsonzanea@gmail.com
+
+Friendly Reminder: Tell someone you love them today.
 
 <!---
 zaneaw/zaneaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
