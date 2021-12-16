@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... wilsonzanea@gmail.com
 
-Friendly Reminder: Tell someone you love them today.
+Friendly Reminder: Remind someone that you love them today.
 
 <!---
 zaneaw/zaneaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
