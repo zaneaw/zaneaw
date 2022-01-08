@@ -1,6 +1,6 @@
 - 👋 Hey there! I'm Zane and I hope you're having a great day!
 - 👀 I’m interested in all things software development!
-- 🌱 I’m currently learning about JavaScript!
+- 🌱 I’m currently learning about ReactJS!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... wilsonzanea@gmail.com
 
