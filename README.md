@@ -1,5 +1,5 @@
 - 👋 Hey there! I'm Zane and I hope you're having a great day!
-- 👀 I’m interested in all things software development!
+- 👀 I’m interested in all things having to do with React, Next.js, and TypeScript!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... wilsonzanea@gmail.com
 
