@@ -1,5 +1,6 @@
 - 👋 Hey there! I'm Zane and I hope you're having a great day!
 - 👀 I’m interested in all things having to do with React, Next.js, and TypeScript!
+- 💥 Currently, I'm exploring the numerous benefits of the graph database, Dgraph!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... wilsonzanea@gmail.com
 
