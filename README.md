@@ -1,6 +1,6 @@
 - 👋 Hey there! I'm Zane and I hope you're having a great day!
 - 👀 I’m interested in all things having to do with React, Next.js, and TypeScript!
-- 💥 Currently, I'm exploring the benefits and potentials of graph databases, specifically Neo4j & Dgraph!
+- 💥 Currently, I'm getting up-to-speed on Next.js' appDir changes, as well as Server Actions!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... wilsonzanea@gmail.com
 
